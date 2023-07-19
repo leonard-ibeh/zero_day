@@ -1,1 +1,1 @@
-getting to understand github
+## Getting started with github
